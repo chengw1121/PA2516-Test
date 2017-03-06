@@ -1,1 +1,0 @@
-ALTER TABLE `feedback_repository`.`feedbacks` DROP COLUMN `config_version`;

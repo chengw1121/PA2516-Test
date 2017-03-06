@@ -1,1 +1,0 @@
-ALTER TABLE `feedback_repository`.`text_feedbacks` CHANGE COLUMN `id` `id` int(11) NOT NULL AUTO_INCREMENT;

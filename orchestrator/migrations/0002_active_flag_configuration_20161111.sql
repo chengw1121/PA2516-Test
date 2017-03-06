@@ -1,1 +1,0 @@
-ALTER TABLE feedback_orchestrator.configurations_history ADD active bit default 1;

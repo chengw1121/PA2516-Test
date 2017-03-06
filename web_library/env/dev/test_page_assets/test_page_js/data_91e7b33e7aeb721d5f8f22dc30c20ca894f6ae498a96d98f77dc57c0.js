@@ -1,1 +1,0 @@
-var rgfwData = {"socalMediaDatenschutzSnippetUrl":"esk\/publicContentAjax\/getSocalMediaDatenschutzSnippet\/"};
